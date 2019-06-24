@@ -1,0 +1,2402 @@
+[
+  {
+    "_id": "5d0dcb7d47fb327b05c2d56e",
+    "latitude": 43.033497,
+    "longitude": 136.820195,
+    "accelorometerz": -11.3694,
+    "accelorometerx": 40.0812,
+    "IRsensor": 11.4424
+  },
+  {
+    "_id": "5d0dcb7d8a487154532570c7",
+    "latitude": -41.616206,
+    "longitude": -121.75202,
+    "accelorometerz": -17.6872,
+    "accelorometerx": 40.3419,
+    "IRsensor": 7.5105
+  },
+  {
+    "_id": "5d0dcb7d30558e241448f0af",
+    "latitude": -53.485708,
+    "longitude": 107.175862,
+    "accelorometerz": -17.0324,
+    "accelorometerx": 75.3643,
+    "IRsensor": 11.3942
+  },
+  {
+    "_id": "5d0dcb7d17da0b11a28f359a",
+    "latitude": -73.215729,
+    "longitude": -143.661804,
+    "accelorometerz": -15.2724,
+    "accelorometerx": 54.5746,
+    "IRsensor": 5.8369
+  },
+  {
+    "_id": "5d0dcb7d8f50c33da8695f09",
+    "latitude": -50.200716,
+    "longitude": 59.646849,
+    "accelorometerz": -18.8718,
+    "accelorometerx": 32.872,
+    "IRsensor": 8.5135
+  },
+  {
+    "_id": "5d0dcb7da22cd8b6d9ed645e",
+    "latitude": 14.971781,
+    "longitude": 96.239158,
+    "accelorometerz": -15.8527,
+    "accelorometerx": 46.0596,
+    "IRsensor": 7.5867
+  },
+  {
+    "_id": "5d0dcb7d6dda615b1411bdc7",
+    "latitude": -27.811747,
+    "longitude": -151.992995,
+    "accelorometerz": -15.5202,
+    "accelorometerx": 65.9717,
+    "IRsensor": 4.025
+  },
+  {
+    "_id": "5d0dcb7dc5bbde3c00ec8d69",
+    "latitude": 84.951216,
+    "longitude": 150.659548,
+    "accelorometerz": -12.3097,
+    "accelorometerx": 57.929,
+    "IRsensor": 4.6951
+  },
+  {
+    "_id": "5d0dcb7d859715b017d97c38",
+    "latitude": 70.83962,
+    "longitude": -108.043771,
+    "accelorometerz": -7.0357,
+    "accelorometerx": 35.2178,
+    "IRsensor": 5.263
+  },
+  {
+    "_id": "5d0dcb7df7df2670c0a43f48",
+    "latitude": -23.983238,
+    "longitude": 43.429796,
+    "accelorometerz": -14.5105,
+    "accelorometerx": 44.1782,
+    "IRsensor": 10.9388
+  },
+  {
+    "_id": "5d0dcb7d322764529c8a5997",
+    "latitude": -26.585965,
+    "longitude": -125.268132,
+    "accelorometerz": -18.8418,
+    "accelorometerx": 75.3686,
+    "IRsensor": 10.01
+  },
+  {
+    "_id": "5d0dcb7d1acf50536fa6c655",
+    "latitude": 17.156093,
+    "longitude": -19.688612,
+    "accelorometerz": -9.5154,
+    "accelorometerx": 36.3883,
+    "IRsensor": 10.4097
+  },
+  {
+    "_id": "5d0dcb7df794e816d42b9e3e",
+    "latitude": -86.752699,
+    "longitude": 90.235992,
+    "accelorometerz": -13.1214,
+    "accelorometerx": 62.7305,
+    "IRsensor": 7.8277
+  },
+  {
+    "_id": "5d0dcb7d559800e19c3b3afa",
+    "latitude": 66.621098,
+    "longitude": -142.206883,
+    "accelorometerz": -16.5717,
+    "accelorometerx": 56.1324,
+    "IRsensor": 3.5595
+  },
+  {
+    "_id": "5d0dcb7db947509d9fd2f9f9",
+    "latitude": -5.670938,
+    "longitude": -84.888904,
+    "accelorometerz": -17.9757,
+    "accelorometerx": 47.2039,
+    "IRsensor": 9.1614
+  },
+  {
+    "_id": "5d0dcb7da70cb56d4675985e",
+    "latitude": -63.395956,
+    "longitude": 177.429764,
+    "accelorometerz": -12.8018,
+    "accelorometerx": 42.343,
+    "IRsensor": 11.7493
+  },
+  {
+    "_id": "5d0dcb7de25444de212ad0c4",
+    "latitude": -13.109357,
+    "longitude": -131.542956,
+    "accelorometerz": -9.0877,
+    "accelorometerx": 61.5918,
+    "IRsensor": 3.3657
+  },
+  {
+    "_id": "5d0dcb7d87021049324fe040",
+    "latitude": -25.108682,
+    "longitude": 16.765417,
+    "accelorometerz": -11.8349,
+    "accelorometerx": 50.0074,
+    "IRsensor": 5.15
+  },
+  {
+    "_id": "5d0dcb7d135d40e8914f07b7",
+    "latitude": -18.209451,
+    "longitude": -117.098549,
+    "accelorometerz": -6.6071,
+    "accelorometerx": 74.6309,
+    "IRsensor": 7.9824
+  },
+  {
+    "_id": "5d0dcb7d974b61b8f4b6f2c1",
+    "latitude": 60.430985,
+    "longitude": -106.460376,
+    "accelorometerz": -8.448,
+    "accelorometerx": 20.686,
+    "IRsensor": 4.9079
+  },
+  {
+    "_id": "5d0dcb7daac3bb11674bccd2",
+    "latitude": -27.896889,
+    "longitude": -132.243787,
+    "accelorometerz": -9.2205,
+    "accelorometerx": 24.384,
+    "IRsensor": 3.4483
+  },
+  {
+    "_id": "5d0dcb7dacf8fb94954d3364",
+    "latitude": -0.301256,
+    "longitude": 1.219032,
+    "accelorometerz": -12.3237,
+    "accelorometerx": 49.0113,
+    "IRsensor": 4.0449
+  },
+  {
+    "_id": "5d0dcb7db786416aa756b1a4",
+    "latitude": -15.671695,
+    "longitude": 174.282145,
+    "accelorometerz": -12.075,
+    "accelorometerx": 26.9485,
+    "IRsensor": 10.9398
+  },
+  {
+    "_id": "5d0dcb7dc9ed2f059ebe3de6",
+    "latitude": 72.467667,
+    "longitude": -119.341344,
+    "accelorometerz": -11.1957,
+    "accelorometerx": 20.0555,
+    "IRsensor": 11.9362
+  },
+  {
+    "_id": "5d0dcb7d09c9f8315af51342",
+    "latitude": -84.692181,
+    "longitude": 167.933482,
+    "accelorometerz": -11.568,
+    "accelorometerx": 40.5902,
+    "IRsensor": 9.1849
+  },
+  {
+    "_id": "5d0dcb7dd3c1bc0cbf488c7a",
+    "latitude": 29.46655,
+    "longitude": -44.915449,
+    "accelorometerz": -13.0552,
+    "accelorometerx": 73.8501,
+    "IRsensor": 8.5485
+  },
+  {
+    "_id": "5d0dcb7ddcaec6e184d96ebc",
+    "latitude": 53.065814,
+    "longitude": 157.010834,
+    "accelorometerz": -14.8875,
+    "accelorometerx": 34.8651,
+    "IRsensor": 6.3306
+  },
+  {
+    "_id": "5d0dcb7d0fe6d0f61b2ca53e",
+    "latitude": -30.57583,
+    "longitude": 169.838524,
+    "accelorometerz": -9.0374,
+    "accelorometerx": 40.543,
+    "IRsensor": 8.941
+  },
+  {
+    "_id": "5d0dcb7df4c52b95cfb53802",
+    "latitude": 61.443195,
+    "longitude": -18.064641,
+    "accelorometerz": -6.0742,
+    "accelorometerx": 71.9107,
+    "IRsensor": 5.49
+  },
+  {
+    "_id": "5d0dcb7df5aaf1e8700343b3",
+    "latitude": 49.598886,
+    "longitude": 37.692213,
+    "accelorometerz": -12.3934,
+    "accelorometerx": 61.0194,
+    "IRsensor": 10.3196
+  },
+  {
+    "_id": "5d0dcb7dd1999ae0e2dc35a2",
+    "latitude": 32.3389,
+    "longitude": 169.427478,
+    "accelorometerz": -14.1271,
+    "accelorometerx": 38.1193,
+    "IRsensor": 7.4714
+  },
+  {
+    "_id": "5d0dcb7dc833b053a249dbb9",
+    "latitude": -14.260628,
+    "longitude": 170.354491,
+    "accelorometerz": -6.2772,
+    "accelorometerx": 55.3903,
+    "IRsensor": 8.7963
+  },
+  {
+    "_id": "5d0dcb7d13f9baaf72784e52",
+    "latitude": -49.228718,
+    "longitude": -49.849886,
+    "accelorometerz": -10.3637,
+    "accelorometerx": 50.2416,
+    "IRsensor": 9.8406
+  },
+  {
+    "_id": "5d0dcb7dd54b32ed7f8d3134",
+    "latitude": -63.127364,
+    "longitude": 61.59894,
+    "accelorometerz": -18.5135,
+    "accelorometerx": 39.6969,
+    "IRsensor": 10.4605
+  },
+  {
+    "_id": "5d0dcb7d86142f26dbc76777",
+    "latitude": 71.263759,
+    "longitude": 127.998214,
+    "accelorometerz": -11.1856,
+    "accelorometerx": 37.3532,
+    "IRsensor": 10.072
+  },
+  {
+    "_id": "5d0dcb7d61804decabff6c73",
+    "latitude": 5.902312,
+    "longitude": 71.573814,
+    "accelorometerz": -7.275,
+    "accelorometerx": 73.6975,
+    "IRsensor": 6.8241
+  },
+  {
+    "_id": "5d0dcb7daba52b94c7e902c2",
+    "latitude": 74.594107,
+    "longitude": 111.507193,
+    "accelorometerz": -5.6265,
+    "accelorometerx": 38.7937,
+    "IRsensor": 5.143
+  },
+  {
+    "_id": "5d0dcb7dad05f436ee52a28f",
+    "latitude": 78.443198,
+    "longitude": -2.30697,
+    "accelorometerz": -11.1272,
+    "accelorometerx": 66.1534,
+    "IRsensor": 3.8342
+  },
+  {
+    "_id": "5d0dcb7dfdcc09dd8ba2bf10",
+    "latitude": -69.221712,
+    "longitude": -122.781454,
+    "accelorometerz": -12.8612,
+    "accelorometerx": 47.8046,
+    "IRsensor": 6.1611
+  },
+  {
+    "_id": "5d0dcb7d5bdd2818c665ac3e",
+    "latitude": 37.027889,
+    "longitude": -125.030325,
+    "accelorometerz": -12.4088,
+    "accelorometerx": 24.2756,
+    "IRsensor": 4.8549
+  },
+  {
+    "_id": "5d0dcb7dd1bc5b7ec826a5b5",
+    "latitude": -14.894893,
+    "longitude": 7.71344,
+    "accelorometerz": -13.5948,
+    "accelorometerx": 78.6211,
+    "IRsensor": 10.2605
+  },
+  {
+    "_id": "5d0dcb7d56f8352cbcb99ec2",
+    "latitude": 68.129809,
+    "longitude": 73.292181,
+    "accelorometerz": -19.002,
+    "accelorometerx": 49.8932,
+    "IRsensor": 10.1199
+  },
+  {
+    "_id": "5d0dcb7d3141ca871d8f07df",
+    "latitude": -84.786683,
+    "longitude": 128.373532,
+    "accelorometerz": -18.7076,
+    "accelorometerx": 46.659,
+    "IRsensor": 3.8671
+  },
+  {
+    "_id": "5d0dcb7dccc5b3ab3428bcf7",
+    "latitude": 24.587868,
+    "longitude": 84.696706,
+    "accelorometerz": -13.5769,
+    "accelorometerx": 44.9858,
+    "IRsensor": 7.2157
+  },
+  {
+    "_id": "5d0dcb7de1118c24740255bf",
+    "latitude": -42.712675,
+    "longitude": -69.730744,
+    "accelorometerz": -5.9414,
+    "accelorometerx": 24.1178,
+    "IRsensor": 8.3794
+  },
+  {
+    "_id": "5d0dcb7d9d170cbacde85726",
+    "latitude": -30.426498,
+    "longitude": 40.021348,
+    "accelorometerz": -11.0133,
+    "accelorometerx": 79.5247,
+    "IRsensor": 5.1307
+  },
+  {
+    "_id": "5d0dcb7db7499441214af695",
+    "latitude": -80.390644,
+    "longitude": 64.307971,
+    "accelorometerz": -18.4759,
+    "accelorometerx": 43.0828,
+    "IRsensor": 3.3053
+  },
+  {
+    "_id": "5d0dcb7d7c560c1ddd748e4d",
+    "latitude": -80.952842,
+    "longitude": -69.366389,
+    "accelorometerz": -6.0114,
+    "accelorometerx": 57.3286,
+    "IRsensor": 11.5627
+  },
+  {
+    "_id": "5d0dcb7d43539f08903ae4fe",
+    "latitude": 27.32065,
+    "longitude": -49.513371,
+    "accelorometerz": -17.677,
+    "accelorometerx": 46.7432,
+    "IRsensor": 9.4731
+  },
+  {
+    "_id": "5d0dcb7dc810d14bfbdc89e0",
+    "latitude": 71.35316,
+    "longitude": 46.441656,
+    "accelorometerz": -5.327,
+    "accelorometerx": 42.8346,
+    "IRsensor": 4.8129
+  },
+  {
+    "_id": "5d0dcb7db37acb8c9a143817",
+    "latitude": 86.861133,
+    "longitude": 54.778046,
+    "accelorometerz": -13.2365,
+    "accelorometerx": 66.8539,
+    "IRsensor": 10.1184
+  },
+  {
+    "_id": "5d0dcb7d9b2c3405f44cdf4e",
+    "latitude": -27.42462,
+    "longitude": 69.971213,
+    "accelorometerz": -12.2585,
+    "accelorometerx": 45.5157,
+    "IRsensor": 10.5595
+  },
+  {
+    "_id": "5d0dcb7d58411bb48d46f215",
+    "latitude": 81.857506,
+    "longitude": 113.805512,
+    "accelorometerz": -15.6707,
+    "accelorometerx": 40.9566,
+    "IRsensor": 4.5379
+  },
+  {
+    "_id": "5d0dcb7d81316b71821ab046",
+    "latitude": 15.028994,
+    "longitude": -112.057482,
+    "accelorometerz": -16.7963,
+    "accelorometerx": 47.3918,
+    "IRsensor": 9.4948
+  },
+  {
+    "_id": "5d0dcb7d25e01f57b66ed000",
+    "latitude": -69.104498,
+    "longitude": 166.500096,
+    "accelorometerz": -7.1404,
+    "accelorometerx": 34.7495,
+    "IRsensor": 9.2068
+  },
+  {
+    "_id": "5d0dcb7d81b3ef795dd82a3b",
+    "latitude": -21.157714,
+    "longitude": 109.63621,
+    "accelorometerz": -15.249,
+    "accelorometerx": 30.3091,
+    "IRsensor": 9.12
+  },
+  {
+    "_id": "5d0dcb7d4789e2924d6d7083",
+    "latitude": 60.983212,
+    "longitude": 80.423251,
+    "accelorometerz": -8.9842,
+    "accelorometerx": 46.4443,
+    "IRsensor": 6.4483
+  },
+  {
+    "_id": "5d0dcb7d2716b02b1e8d42bc",
+    "latitude": -6.58976,
+    "longitude": -32.379056,
+    "accelorometerz": -6.608,
+    "accelorometerx": 73.5133,
+    "IRsensor": 3.4157
+  },
+  {
+    "_id": "5d0dcb7d24ca51b5bae9364f",
+    "latitude": 15.08534,
+    "longitude": -126.786457,
+    "accelorometerz": -8.7458,
+    "accelorometerx": 28.8915,
+    "IRsensor": 4.8394
+  },
+  {
+    "_id": "5d0dcb7d567e8cea16636e01",
+    "latitude": -85.156787,
+    "longitude": 129.347881,
+    "accelorometerz": -6.2878,
+    "accelorometerx": 27.1369,
+    "IRsensor": 6.4529
+  },
+  {
+    "_id": "5d0dcb7d6dba35869df70d58",
+    "latitude": 63.165672,
+    "longitude": -73.91007,
+    "accelorometerz": -18.496,
+    "accelorometerx": 48.8877,
+    "IRsensor": 11.7962
+  },
+  {
+    "_id": "5d0dcb7decb26d9d2665f2f7",
+    "latitude": -43.345942,
+    "longitude": -132.847749,
+    "accelorometerz": -10.3465,
+    "accelorometerx": 57.5971,
+    "IRsensor": 8.2557
+  },
+  {
+    "_id": "5d0dcb7d8b48bd40404440f6",
+    "latitude": -51.554509,
+    "longitude": -160.788243,
+    "accelorometerz": -10.1408,
+    "accelorometerx": 22.8474,
+    "IRsensor": 7.4581
+  },
+  {
+    "_id": "5d0dcb7d4df806cc6e39a2fe",
+    "latitude": -31.283021,
+    "longitude": -152.582118,
+    "accelorometerz": -14.9073,
+    "accelorometerx": 78.0415,
+    "IRsensor": 7.1753
+  },
+  {
+    "_id": "5d0dcb7d631a6b12570ae9b7",
+    "latitude": 63.290366,
+    "longitude": -85.724458,
+    "accelorometerz": -18.4995,
+    "accelorometerx": 31.6595,
+    "IRsensor": 9.2347
+  },
+  {
+    "_id": "5d0dcb7dbbafd2f05798d8fc",
+    "latitude": 89.423166,
+    "longitude": 47.445686,
+    "accelorometerz": -18.8434,
+    "accelorometerx": 23.7381,
+    "IRsensor": 8.6273
+  },
+  {
+    "_id": "5d0dcb7d5a2361b264a0bb5d",
+    "latitude": 2.61859,
+    "longitude": 18.760273,
+    "accelorometerz": -16.8747,
+    "accelorometerx": 54.3473,
+    "IRsensor": 9.6196
+  },
+  {
+    "_id": "5d0dcb7d5408436607bdffa0",
+    "latitude": -76.970601,
+    "longitude": 10.750576,
+    "accelorometerz": -13.0624,
+    "accelorometerx": 36.7643,
+    "IRsensor": 11.718
+  },
+  {
+    "_id": "5d0dcb7d63e127e88d4919bf",
+    "latitude": 26.196554,
+    "longitude": -135.008486,
+    "accelorometerz": -15.5404,
+    "accelorometerx": 78.3888,
+    "IRsensor": 7.3625
+  },
+  {
+    "_id": "5d0dcb7db8dfc98f9f683384",
+    "latitude": 10.822788,
+    "longitude": -21.356102,
+    "accelorometerz": -14.5523,
+    "accelorometerx": 30.9538,
+    "IRsensor": 5.1866
+  },
+  {
+    "_id": "5d0dcb7d14008c3dc678b928",
+    "latitude": -38.897202,
+    "longitude": 67.090093,
+    "accelorometerz": -18.6085,
+    "accelorometerx": 76.2521,
+    "IRsensor": 4.5033
+  },
+  {
+    "_id": "5d0dcb7db14341eda09d4c07",
+    "latitude": 15.550811,
+    "longitude": 60.437133,
+    "accelorometerz": -13.5683,
+    "accelorometerx": 51.4033,
+    "IRsensor": 5.0765
+  },
+  {
+    "_id": "5d0dcb7d5a924852a938d597",
+    "latitude": -10.446979,
+    "longitude": 71.516797,
+    "accelorometerz": -19.1181,
+    "accelorometerx": 77.7985,
+    "IRsensor": 3.2369
+  },
+  {
+    "_id": "5d0dcb7d59b73893d2ac7f0a",
+    "latitude": -12.513817,
+    "longitude": 125.847352,
+    "accelorometerz": -15.7147,
+    "accelorometerx": 51.5258,
+    "IRsensor": 9.9103
+  },
+  {
+    "_id": "5d0dcb7de0d7fb55a7789423",
+    "latitude": -32.802502,
+    "longitude": -49.931713,
+    "accelorometerz": -17.1369,
+    "accelorometerx": 46.1644,
+    "IRsensor": 8.2307
+  },
+  {
+    "_id": "5d0dcb7d80307fa854cce833",
+    "latitude": -41.690686,
+    "longitude": 174.94904,
+    "accelorometerz": -13.1231,
+    "accelorometerx": 54.0237,
+    "IRsensor": 6.0155
+  },
+  {
+    "_id": "5d0dcb7d946c4a27031e0d18",
+    "latitude": -64.221112,
+    "longitude": -20.782504,
+    "accelorometerz": -5.3256,
+    "accelorometerx": 78.1445,
+    "IRsensor": 5.1081
+  },
+  {
+    "_id": "5d0dcb7d0a1e958e09c9f80f",
+    "latitude": -47.380162,
+    "longitude": 125.758536,
+    "accelorometerz": -6.0802,
+    "accelorometerx": 68.1816,
+    "IRsensor": 11.8035
+  },
+  {
+    "_id": "5d0dcb7daa9ef8c0d9b5b18f",
+    "latitude": 58.606088,
+    "longitude": -70.872111,
+    "accelorometerz": -10.3026,
+    "accelorometerx": 48.7229,
+    "IRsensor": 8.8776
+  },
+  {
+    "_id": "5d0dcb7d155bcd2061acdd42",
+    "latitude": -68.065894,
+    "longitude": 76.247086,
+    "accelorometerz": -18.4227,
+    "accelorometerx": 36.1062,
+    "IRsensor": 5.7188
+  },
+  {
+    "_id": "5d0dcb7d1044d7cf555edb88",
+    "latitude": 77.330954,
+    "longitude": 118.830612,
+    "accelorometerz": -11.51,
+    "accelorometerx": 30.1458,
+    "IRsensor": 3.277
+  },
+  {
+    "_id": "5d0dcb7d02d24f0b3f8a0934",
+    "latitude": 76.33146,
+    "longitude": 0.31033,
+    "accelorometerz": -9.863,
+    "accelorometerx": 25.7018,
+    "IRsensor": 7.296
+  },
+  {
+    "_id": "5d0dcb7de7ba67a53ceb6fa0",
+    "latitude": -21.015201,
+    "longitude": 125.366147,
+    "accelorometerz": -17.8505,
+    "accelorometerx": 41.9442,
+    "IRsensor": 11.0736
+  },
+  {
+    "_id": "5d0dcb7de87c3a515ae3543f",
+    "latitude": 82.352107,
+    "longitude": 58.432196,
+    "accelorometerz": -5.269,
+    "accelorometerx": 48.1204,
+    "IRsensor": 11.4718
+  },
+  {
+    "_id": "5d0dcb7de628b54a9c819590",
+    "latitude": -3.437962,
+    "longitude": 64.126747,
+    "accelorometerz": -9.8656,
+    "accelorometerx": 55.9927,
+    "IRsensor": 11.708
+  },
+  {
+    "_id": "5d0dcb7d1845a83e861f83c1",
+    "latitude": -55.121892,
+    "longitude": -25.364885,
+    "accelorometerz": -14.2307,
+    "accelorometerx": 53.4891,
+    "IRsensor": 4.3314
+  },
+  {
+    "_id": "5d0dcb7d68c7fd584e842b5d",
+    "latitude": -77.617431,
+    "longitude": -75.70583,
+    "accelorometerz": -8.3057,
+    "accelorometerx": 66.9166,
+    "IRsensor": 7.1196
+  },
+  {
+    "_id": "5d0dcb7da19b3ee7df7732a7",
+    "latitude": 62.17007,
+    "longitude": -29.672815,
+    "accelorometerz": -15.1701,
+    "accelorometerx": 33.676,
+    "IRsensor": 5.1946
+  },
+  {
+    "_id": "5d0dcb7d057aa0648857665e",
+    "latitude": 88.154231,
+    "longitude": 70.624293,
+    "accelorometerz": -10.3814,
+    "accelorometerx": 73.2053,
+    "IRsensor": 6.8405
+  },
+  {
+    "_id": "5d0dcb7d7431dedff17c9322",
+    "latitude": -28.768233,
+    "longitude": 89.255728,
+    "accelorometerz": -9.3684,
+    "accelorometerx": 63.705,
+    "IRsensor": 4.0664
+  },
+  {
+    "_id": "5d0dcb7d72183607d3574b16",
+    "latitude": 40.650076,
+    "longitude": -45.01925,
+    "accelorometerz": -7.894,
+    "accelorometerx": 70.2814,
+    "IRsensor": 8.394
+  },
+  {
+    "_id": "5d0dcb7d1a12be3d1a1fbe53",
+    "latitude": -43.790588,
+    "longitude": -92.229373,
+    "accelorometerz": -8.8102,
+    "accelorometerx": 27.2265,
+    "IRsensor": 11.5972
+  },
+  {
+    "_id": "5d0dcb7da53c0f1b52c1d45b",
+    "latitude": 57.822974,
+    "longitude": -74.645421,
+    "accelorometerz": -18.5671,
+    "accelorometerx": 46.3082,
+    "IRsensor": 5.8315
+  },
+  {
+    "_id": "5d0dcb7d740b6477c60d3b94",
+    "latitude": -38.170169,
+    "longitude": -170.649193,
+    "accelorometerz": -12.6249,
+    "accelorometerx": 71.2255,
+    "IRsensor": 3.718
+  },
+  {
+    "_id": "5d0dcb7db48c7c796c4789b3",
+    "latitude": -79.623522,
+    "longitude": -52.03257,
+    "accelorometerz": -15.5199,
+    "accelorometerx": 32.5565,
+    "IRsensor": 9.4311
+  },
+  {
+    "_id": "5d0dcb7df1815223d0795bff",
+    "latitude": -9.182574,
+    "longitude": -98.668979,
+    "accelorometerz": -7.6923,
+    "accelorometerx": 60.8252,
+    "IRsensor": 10.0205
+  },
+  {
+    "_id": "5d0dcb7d90e7ad76d13b2536",
+    "latitude": -68.260661,
+    "longitude": -56.412318,
+    "accelorometerz": -5.5589,
+    "accelorometerx": 70.87,
+    "IRsensor": 6.9282
+  },
+  {
+    "_id": "5d0dcb7d14c948b14e36d019",
+    "latitude": 11.41376,
+    "longitude": -6.859172,
+    "accelorometerz": -17.7699,
+    "accelorometerx": 73.2187,
+    "IRsensor": 5.7484
+  },
+  {
+    "_id": "5d0dcb7d53915a30a2c59669",
+    "latitude": -84.84378,
+    "longitude": 96.566275,
+    "accelorometerz": -14.9231,
+    "accelorometerx": 20.5039,
+    "IRsensor": 11.2848
+  },
+  {
+    "_id": "5d0dcb7dd727cb97bc01737d",
+    "latitude": -56.848154,
+    "longitude": 124.655379,
+    "accelorometerz": -9.9519,
+    "accelorometerx": 27.2304,
+    "IRsensor": 3.115
+  },
+  {
+    "_id": "5d0dcb7d47ba2d1460b71926",
+    "latitude": -55.085581,
+    "longitude": -109.271147,
+    "accelorometerz": -18.6771,
+    "accelorometerx": 30.0028,
+    "IRsensor": 10.8663
+  },
+  {
+    "_id": "5d0dcb7d063cff1c1bcefe5a",
+    "latitude": 62.01758,
+    "longitude": -27.867429,
+    "accelorometerz": -10.3682,
+    "accelorometerx": 28.8814,
+    "IRsensor": 6.6163
+  },
+  {
+    "_id": "5d0dcb7deece573826d23541",
+    "latitude": 66.595128,
+    "longitude": 143.557524,
+    "accelorometerz": -19.0909,
+    "accelorometerx": 44.8031,
+    "IRsensor": 9.5212
+  },
+  {
+    "_id": "5d0dcb7d5173ae50e7ad7a6f",
+    "latitude": -88.320446,
+    "longitude": -145.548692,
+    "accelorometerz": -19.0695,
+    "accelorometerx": 35.5718,
+    "IRsensor": 10.9155
+  },
+  {
+    "_id": "5d0dcb7dc143bdeea6118157",
+    "latitude": -30.85517,
+    "longitude": 119.952472,
+    "accelorometerz": -14.3786,
+    "accelorometerx": 27.0641,
+    "IRsensor": 7.5543
+  },
+  {
+    "_id": "5d0dcb7da5a9698a70524a2f",
+    "latitude": 17.247111,
+    "longitude": -99.559498,
+    "accelorometerz": -15.656,
+    "accelorometerx": 51.0497,
+    "IRsensor": 8.7416
+  },
+  {
+    "_id": "5d0dcb7d8aecaa96c46d90e4",
+    "latitude": -27.110601,
+    "longitude": 127.745892,
+    "accelorometerz": -19.3663,
+    "accelorometerx": 29.3159,
+    "IRsensor": 6.6048
+  },
+  {
+    "_id": "5d0dcb7de33437abdc6ead4d",
+    "latitude": 20.222336,
+    "longitude": -20.632685,
+    "accelorometerz": -19.8392,
+    "accelorometerx": 75.9589,
+    "IRsensor": 4.9744
+  },
+  {
+    "_id": "5d0dcb7da6aa9fca4cc89aa6",
+    "latitude": -65.583316,
+    "longitude": 77.129214,
+    "accelorometerz": -10.1644,
+    "accelorometerx": 75.6458,
+    "IRsensor": 11.2734
+  },
+  {
+    "_id": "5d0dcb7d2817cfa932efc5eb",
+    "latitude": -54.881308,
+    "longitude": 60.288991,
+    "accelorometerz": -9.4125,
+    "accelorometerx": 64.4684,
+    "IRsensor": 10.4695
+  },
+  {
+    "_id": "5d0dcb7d5457a2fd1de7bf41",
+    "latitude": -23.274129,
+    "longitude": -117.515585,
+    "accelorometerz": -8.2229,
+    "accelorometerx": 24.0117,
+    "IRsensor": 6.0521
+  },
+  {
+    "_id": "5d0dcb7d7e687602730475f0",
+    "latitude": 38.676886,
+    "longitude": 72.117974,
+    "accelorometerz": -12.395,
+    "accelorometerx": 29.7652,
+    "IRsensor": 7.7184
+  },
+  {
+    "_id": "5d0dcb7d3166d495c71a936a",
+    "latitude": -42.251301,
+    "longitude": -61.178672,
+    "accelorometerz": -8.5522,
+    "accelorometerx": 25.5668,
+    "IRsensor": 10.069
+  },
+  {
+    "_id": "5d0dcb7d6247968c2a230681",
+    "latitude": -32.58191,
+    "longitude": -39.409226,
+    "accelorometerz": -19.1844,
+    "accelorometerx": 31.1976,
+    "IRsensor": 6.963
+  },
+  {
+    "_id": "5d0dcb7df1a84a00c1861d24",
+    "latitude": -7.164766,
+    "longitude": -136.841922,
+    "accelorometerz": -16.9912,
+    "accelorometerx": 77.2204,
+    "IRsensor": 7.3382
+  },
+  {
+    "_id": "5d0dcb7d0d92ca130946462b",
+    "latitude": 42.259974,
+    "longitude": -142.251357,
+    "accelorometerz": -6.3799,
+    "accelorometerx": 57.8804,
+    "IRsensor": 4.2666
+  },
+  {
+    "_id": "5d0dcb7dbeba829db84c999e",
+    "latitude": -33.583175,
+    "longitude": -7.825376,
+    "accelorometerz": -11.2077,
+    "accelorometerx": 55.1737,
+    "IRsensor": 7.6048
+  },
+  {
+    "_id": "5d0dcb7d5ff37f11933cd58a",
+    "latitude": 29.500006,
+    "longitude": -7.889284,
+    "accelorometerz": -6.6107,
+    "accelorometerx": 37.5642,
+    "IRsensor": 7.6584
+  },
+  {
+    "_id": "5d0dcb7d96ae4e2661afb2d1",
+    "latitude": 73.257068,
+    "longitude": -112.910593,
+    "accelorometerz": -12.4806,
+    "accelorometerx": 69.0161,
+    "IRsensor": 11.9405
+  },
+  {
+    "_id": "5d0dcb7d9bcab069b5e8f00f",
+    "latitude": -28.433879,
+    "longitude": 7.564306,
+    "accelorometerz": -6.1472,
+    "accelorometerx": 35.514,
+    "IRsensor": 3.0101
+  },
+  {
+    "_id": "5d0dcb7d3c8fd1344c0d234d",
+    "latitude": 5.409829,
+    "longitude": 56.87102,
+    "accelorometerz": -15.4912,
+    "accelorometerx": 77.7734,
+    "IRsensor": 8.5109
+  },
+  {
+    "_id": "5d0dcb7da2fadb7dcd8ee8da",
+    "latitude": 44.367252,
+    "longitude": -130.611428,
+    "accelorometerz": -14.4607,
+    "accelorometerx": 43.3163,
+    "IRsensor": 6.941
+  },
+  {
+    "_id": "5d0dcb7df15f52416968f803",
+    "latitude": -57.922384,
+    "longitude": 85.256891,
+    "accelorometerz": -8.1716,
+    "accelorometerx": 57.0619,
+    "IRsensor": 4.2014
+  },
+  {
+    "_id": "5d0dcb7da3f537fe50b80e87",
+    "latitude": -7.201377,
+    "longitude": -166.967263,
+    "accelorometerz": -18.3284,
+    "accelorometerx": 66.7838,
+    "IRsensor": 8.0019
+  },
+  {
+    "_id": "5d0dcb7d9118d4a8b9de3a46",
+    "latitude": 12.067586,
+    "longitude": -32.126245,
+    "accelorometerz": -17.9778,
+    "accelorometerx": 77.8605,
+    "IRsensor": 6.2743
+  },
+  {
+    "_id": "5d0dcb7d226b9354d24f1058",
+    "latitude": 53.785407,
+    "longitude": 76.610355,
+    "accelorometerz": -11.7872,
+    "accelorometerx": 39.4347,
+    "IRsensor": 3.058
+  },
+  {
+    "_id": "5d0dcb7d27362c547c26445e",
+    "latitude": 76.122171,
+    "longitude": 100.400002,
+    "accelorometerz": -10.6219,
+    "accelorometerx": 33.8218,
+    "IRsensor": 7.3302
+  },
+  {
+    "_id": "5d0dcb7d80ef19c9981bb053",
+    "latitude": -79.128887,
+    "longitude": 80.984713,
+    "accelorometerz": -5.2243,
+    "accelorometerx": 56.917,
+    "IRsensor": 4.8422
+  },
+  {
+    "_id": "5d0dcb7d3a57dc846168cc24",
+    "latitude": -4.656359,
+    "longitude": -160.806762,
+    "accelorometerz": -10.7374,
+    "accelorometerx": 59.8673,
+    "IRsensor": 11.0768
+  },
+  {
+    "_id": "5d0dcb7d693278e29f9c0d80",
+    "latitude": -52.740612,
+    "longitude": 76.905964,
+    "accelorometerz": -14.4904,
+    "accelorometerx": 52.8977,
+    "IRsensor": 9.9407
+  },
+  {
+    "_id": "5d0dcb7da4e24a465cec0870",
+    "latitude": 61.415105,
+    "longitude": -108.248039,
+    "accelorometerz": -8.4489,
+    "accelorometerx": 59.2785,
+    "IRsensor": 6.4253
+  },
+  {
+    "_id": "5d0dcb7da4fb94ddec7abcf3",
+    "latitude": 28.589626,
+    "longitude": 155.01594,
+    "accelorometerz": -17.7798,
+    "accelorometerx": 65.6818,
+    "IRsensor": 11.6125
+  },
+  {
+    "_id": "5d0dcb7d1c4eaea8e7c9a899",
+    "latitude": -65.477515,
+    "longitude": -32.33392,
+    "accelorometerz": -13.947,
+    "accelorometerx": 67.9036,
+    "IRsensor": 11.064
+  },
+  {
+    "_id": "5d0dcb7d1b0d36def84e7063",
+    "latitude": 63.359917,
+    "longitude": 59.616285,
+    "accelorometerz": -5.4022,
+    "accelorometerx": 30.5732,
+    "IRsensor": 11.7962
+  },
+  {
+    "_id": "5d0dcb7db09f64cc62f8c87a",
+    "latitude": -85.375058,
+    "longitude": -165.740917,
+    "accelorometerz": -19.7002,
+    "accelorometerx": 33.4659,
+    "IRsensor": 8.7775
+  },
+  {
+    "_id": "5d0dcb7df84d6df5fd07aad7",
+    "latitude": -28.986205,
+    "longitude": -80.047628,
+    "accelorometerz": -6.7087,
+    "accelorometerx": 62.0235,
+    "IRsensor": 10.1995
+  },
+  {
+    "_id": "5d0dcb7da579d600f54f55ec",
+    "latitude": -79.403557,
+    "longitude": 123.085101,
+    "accelorometerz": -19.8724,
+    "accelorometerx": 47.6061,
+    "IRsensor": 10.824
+  },
+  {
+    "_id": "5d0dcb7d80497c5b4604977e",
+    "latitude": -66.587359,
+    "longitude": 149.296794,
+    "accelorometerz": -5.049,
+    "accelorometerx": 59.9098,
+    "IRsensor": 8.8036
+  },
+  {
+    "_id": "5d0dcb7de3da5211d03a6457",
+    "latitude": 3.131628,
+    "longitude": -75.760364,
+    "accelorometerz": -9.2466,
+    "accelorometerx": 66.942,
+    "IRsensor": 8.0597
+  },
+  {
+    "_id": "5d0dcb7d8bd471ede9074722",
+    "latitude": 83.997045,
+    "longitude": 114.129333,
+    "accelorometerz": -6.9454,
+    "accelorometerx": 57.6705,
+    "IRsensor": 8.8617
+  },
+  {
+    "_id": "5d0dcb7dc5e8e3b2bea37ed6",
+    "latitude": -12.351458,
+    "longitude": 169.812498,
+    "accelorometerz": -16.2146,
+    "accelorometerx": 37.8495,
+    "IRsensor": 5.5225
+  },
+  {
+    "_id": "5d0dcb7d0084f8e36f254bed",
+    "latitude": -77.823511,
+    "longitude": -39.607839,
+    "accelorometerz": -8.5622,
+    "accelorometerx": 73.6255,
+    "IRsensor": 8.7247
+  },
+  {
+    "_id": "5d0dcb7ddf270036612850a1",
+    "latitude": -29.434033,
+    "longitude": -14.822871,
+    "accelorometerz": -15.0859,
+    "accelorometerx": 20.6269,
+    "IRsensor": 3.5588
+  },
+  {
+    "_id": "5d0dcb7d368b4c9ff3c39168",
+    "latitude": 87.701617,
+    "longitude": -41.577837,
+    "accelorometerz": -10.9814,
+    "accelorometerx": 55.2049,
+    "IRsensor": 8.0256
+  },
+  {
+    "_id": "5d0dcb7d37c5e58ff7431b5d",
+    "latitude": -78.775892,
+    "longitude": 69.791318,
+    "accelorometerz": -18.5999,
+    "accelorometerx": 63.8878,
+    "IRsensor": 11.6392
+  },
+  {
+    "_id": "5d0dcb7dacec829c23768e18",
+    "latitude": 1.693687,
+    "longitude": -140.440881,
+    "accelorometerz": -5.1904,
+    "accelorometerx": 51.2931,
+    "IRsensor": 10.0227
+  },
+  {
+    "_id": "5d0dcb7ddbc061bcb350522c",
+    "latitude": -51.030727,
+    "longitude": -46.496472,
+    "accelorometerz": -18.3601,
+    "accelorometerx": 22.6963,
+    "IRsensor": 5.242
+  },
+  {
+    "_id": "5d0dcb7db0e1ace6e57c4d35",
+    "latitude": 36.370784,
+    "longitude": -32.825592,
+    "accelorometerz": -13.8373,
+    "accelorometerx": 64.4602,
+    "IRsensor": 10.7991
+  },
+  {
+    "_id": "5d0dcb7d6b1b09703e2159d9",
+    "latitude": -71.590613,
+    "longitude": 27.876787,
+    "accelorometerz": -19.1845,
+    "accelorometerx": 58.77,
+    "IRsensor": 4.4999
+  },
+  {
+    "_id": "5d0dcb7dc2452204d819381b",
+    "latitude": 0.047933,
+    "longitude": -37.343428,
+    "accelorometerz": -16.4434,
+    "accelorometerx": 65.1179,
+    "IRsensor": 3.4015
+  },
+  {
+    "_id": "5d0dcb7d1c2fd54c1f198c97",
+    "latitude": 76.035759,
+    "longitude": 129.302508,
+    "accelorometerz": -9.0679,
+    "accelorometerx": 51.9495,
+    "IRsensor": 6.1031
+  },
+  {
+    "_id": "5d0dcb7dd93afa236a88bae0",
+    "latitude": -54.411484,
+    "longitude": -87.588292,
+    "accelorometerz": -5.6177,
+    "accelorometerx": 70.1708,
+    "IRsensor": 8.9963
+  },
+  {
+    "_id": "5d0dcb7d618c6b9081b06ae8",
+    "latitude": 14.915291,
+    "longitude": -12.502237,
+    "accelorometerz": -7.2856,
+    "accelorometerx": 56.9828,
+    "IRsensor": 11.3726
+  },
+  {
+    "_id": "5d0dcb7d86f510fe5f0f8338",
+    "latitude": -78.468882,
+    "longitude": 60.24136,
+    "accelorometerz": -16.318,
+    "accelorometerx": 28.3052,
+    "IRsensor": 11.0008
+  },
+  {
+    "_id": "5d0dcb7df2e35148ea450f09",
+    "latitude": -55.24493,
+    "longitude": -134.898721,
+    "accelorometerz": -17.0299,
+    "accelorometerx": 23.6561,
+    "IRsensor": 7.7797
+  },
+  {
+    "_id": "5d0dcb7d5a1f546fa7362ec4",
+    "latitude": 28.9581,
+    "longitude": 84.101984,
+    "accelorometerz": -14.6839,
+    "accelorometerx": 74.1566,
+    "IRsensor": 9.0502
+  },
+  {
+    "_id": "5d0dcb7dd793f437a6a6175a",
+    "latitude": 54.04133,
+    "longitude": 169.641784,
+    "accelorometerz": -9.8409,
+    "accelorometerx": 64.9418,
+    "IRsensor": 8.4001
+  },
+  {
+    "_id": "5d0dcb7d91ce2c42286678ac",
+    "latitude": 2.199645,
+    "longitude": 138.582856,
+    "accelorometerz": -13.8228,
+    "accelorometerx": 60.5588,
+    "IRsensor": 11.4939
+  },
+  {
+    "_id": "5d0dcb7d52863ee866fdb96d",
+    "latitude": -55.709068,
+    "longitude": -141.458337,
+    "accelorometerz": -7.0701,
+    "accelorometerx": 57.7111,
+    "IRsensor": 8.5425
+  },
+  {
+    "_id": "5d0dcb7dd217c5255cc0440e",
+    "latitude": 63.501444,
+    "longitude": 97.302921,
+    "accelorometerz": -5.026,
+    "accelorometerx": 70.0234,
+    "IRsensor": 10.355
+  },
+  {
+    "_id": "5d0dcb7dfe2afd0a62f704d4",
+    "latitude": 4.389946,
+    "longitude": 83.708468,
+    "accelorometerz": -15.3873,
+    "accelorometerx": 65.7366,
+    "IRsensor": 5.473
+  },
+  {
+    "_id": "5d0dcb7dfcdcbb157651852f",
+    "latitude": -7.668523,
+    "longitude": -103.728062,
+    "accelorometerz": -7.7136,
+    "accelorometerx": 56.2217,
+    "IRsensor": 9.4807
+  },
+  {
+    "_id": "5d0dcb7d27045d95df2a8b9b",
+    "latitude": 74.622721,
+    "longitude": -24.012153,
+    "accelorometerz": -11.0234,
+    "accelorometerx": 72.6271,
+    "IRsensor": 4.483
+  },
+  {
+    "_id": "5d0dcb7df1fc5287de7caacb",
+    "latitude": -21.631879,
+    "longitude": -93.550149,
+    "accelorometerz": -13.1003,
+    "accelorometerx": 63.4927,
+    "IRsensor": 4.5964
+  },
+  {
+    "_id": "5d0dcb7dcf8284aaba992ba6",
+    "latitude": -31.455925,
+    "longitude": 92.722029,
+    "accelorometerz": -16.2212,
+    "accelorometerx": 58.6542,
+    "IRsensor": 9.8572
+  },
+  {
+    "_id": "5d0dcb7dcb541aefba7fab76",
+    "latitude": -67.234883,
+    "longitude": 94.471909,
+    "accelorometerz": -8.2416,
+    "accelorometerx": 23.2606,
+    "IRsensor": 5.512
+  },
+  {
+    "_id": "5d0dcb7d140592cc64a2e869",
+    "latitude": -87.10227,
+    "longitude": 141.284458,
+    "accelorometerz": -7.7736,
+    "accelorometerx": 46.5313,
+    "IRsensor": 10.4698
+  },
+  {
+    "_id": "5d0dcb7d46395534ba83a4ea",
+    "latitude": -75.615367,
+    "longitude": 75.699233,
+    "accelorometerz": -19.2589,
+    "accelorometerx": 34.8216,
+    "IRsensor": 3.3496
+  },
+  {
+    "_id": "5d0dcb7d77bca426fe2a8439",
+    "latitude": 26.055803,
+    "longitude": 25.368141,
+    "accelorometerz": -14.8421,
+    "accelorometerx": 37.8959,
+    "IRsensor": 7.0209
+  },
+  {
+    "_id": "5d0dcb7d8d09d1d01033a78e",
+    "latitude": 61.841421,
+    "longitude": 11.944501,
+    "accelorometerz": -8.2043,
+    "accelorometerx": 39.7804,
+    "IRsensor": 8.296
+  },
+  {
+    "_id": "5d0dcb7dadc232e898119baf",
+    "latitude": -63.959645,
+    "longitude": 85.717047,
+    "accelorometerz": -12.7028,
+    "accelorometerx": 66.7933,
+    "IRsensor": 8.5693
+  },
+  {
+    "_id": "5d0dcb7d2255f1ba928d6447",
+    "latitude": -54.103127,
+    "longitude": -124.952715,
+    "accelorometerz": -8.1134,
+    "accelorometerx": 43.6898,
+    "IRsensor": 10.7839
+  },
+  {
+    "_id": "5d0dcb7d3e258bb82ca7c929",
+    "latitude": 77.224229,
+    "longitude": 57.643754,
+    "accelorometerz": -17.2821,
+    "accelorometerx": 71.1212,
+    "IRsensor": 7.9685
+  },
+  {
+    "_id": "5d0dcb7df18432cf78ec365a",
+    "latitude": 77.455009,
+    "longitude": -87.475895,
+    "accelorometerz": -15.0102,
+    "accelorometerx": 79.4631,
+    "IRsensor": 6.2111
+  },
+  {
+    "_id": "5d0dcb7d147ee0f3095db87b",
+    "latitude": -80.082316,
+    "longitude": 62.725657,
+    "accelorometerz": -14.1464,
+    "accelorometerx": 78.4284,
+    "IRsensor": 3.4661
+  },
+  {
+    "_id": "5d0dcb7d77de18126f19e5d5",
+    "latitude": -20.780549,
+    "longitude": 79.737188,
+    "accelorometerz": -11.1868,
+    "accelorometerx": 58.6254,
+    "IRsensor": 6.7451
+  },
+  {
+    "_id": "5d0dcb7d1db642eefe250411",
+    "latitude": -89.763733,
+    "longitude": 7.303794,
+    "accelorometerz": -11.4665,
+    "accelorometerx": 38.014,
+    "IRsensor": 6.6154
+  },
+  {
+    "_id": "5d0dcb7dff36e572e36f3ca6",
+    "latitude": -21.771155,
+    "longitude": -47.86163,
+    "accelorometerz": -18.8251,
+    "accelorometerx": 73.4428,
+    "IRsensor": 4.8422
+  },
+  {
+    "_id": "5d0dcb7d9b64056d99f9f308",
+    "latitude": 7.167071,
+    "longitude": 23.208292,
+    "accelorometerz": -8.4353,
+    "accelorometerx": 36.6304,
+    "IRsensor": 5.7628
+  },
+  {
+    "_id": "5d0dcb7d5f174b14bdeef270",
+    "latitude": -39.76422,
+    "longitude": 42.691778,
+    "accelorometerz": -17.186,
+    "accelorometerx": 30.0053,
+    "IRsensor": 6.4081
+  },
+  {
+    "_id": "5d0dcb7da76a16f1addbc23d",
+    "latitude": 50.847114,
+    "longitude": -140.303962,
+    "accelorometerz": -10.9525,
+    "accelorometerx": 33.8385,
+    "IRsensor": 3.055
+  },
+  {
+    "_id": "5d0dcb7dfeafafc0e3500ed3",
+    "latitude": -60.551761,
+    "longitude": -113.688832,
+    "accelorometerz": -13.8798,
+    "accelorometerx": 75.1968,
+    "IRsensor": 8.3725
+  },
+  {
+    "_id": "5d0dcb7de84eb54d7535218c",
+    "latitude": -18.745358,
+    "longitude": -174.419597,
+    "accelorometerz": -10.396,
+    "accelorometerx": 53.397,
+    "IRsensor": 10.1459
+  },
+  {
+    "_id": "5d0dcb7dfabb30e4a56f9d52",
+    "latitude": 85.704017,
+    "longitude": 75.2349,
+    "accelorometerz": -11.6239,
+    "accelorometerx": 54.9181,
+    "IRsensor": 6.3463
+  },
+  {
+    "_id": "5d0dcb7dce4a5c4f4b614e58",
+    "latitude": 56.758136,
+    "longitude": 166.336221,
+    "accelorometerz": -19.7876,
+    "accelorometerx": 32.1692,
+    "IRsensor": 3.5637
+  },
+  {
+    "_id": "5d0dcb7d4760843ac0ada8ce",
+    "latitude": 42.148476,
+    "longitude": 99.923095,
+    "accelorometerz": -10.708,
+    "accelorometerx": 61.432,
+    "IRsensor": 7.038
+  },
+  {
+    "_id": "5d0dcb7d37db5cf56a00cb46",
+    "latitude": 60.821469,
+    "longitude": -115.122352,
+    "accelorometerz": -9.8654,
+    "accelorometerx": 67.5256,
+    "IRsensor": 5.7111
+  },
+  {
+    "_id": "5d0dcb7d9056af8a5383b9c8",
+    "latitude": -56.750182,
+    "longitude": -89.202596,
+    "accelorometerz": -17.0416,
+    "accelorometerx": 24.2447,
+    "IRsensor": 10.3385
+  },
+  {
+    "_id": "5d0dcb7d85d6a07bebd124f0",
+    "latitude": 57.696586,
+    "longitude": 21.482146,
+    "accelorometerz": -19.1475,
+    "accelorometerx": 32.3028,
+    "IRsensor": 5.8256
+  },
+  {
+    "_id": "5d0dcb7da11f0d760c77b6d7",
+    "latitude": -81.576509,
+    "longitude": 117.71908,
+    "accelorometerz": -16.5938,
+    "accelorometerx": 66.9091,
+    "IRsensor": 9.3449
+  },
+  {
+    "_id": "5d0dcb7dfd4494f4d893a9a3",
+    "latitude": 44.752893,
+    "longitude": -13.519277,
+    "accelorometerz": -9.4003,
+    "accelorometerx": 36.4087,
+    "IRsensor": 10.994
+  },
+  {
+    "_id": "5d0dcb7d566c23f2f55a274d",
+    "latitude": -0.508662,
+    "longitude": 36.428501,
+    "accelorometerz": -16.3719,
+    "accelorometerx": 22.1514,
+    "IRsensor": 10.7168
+  },
+  {
+    "_id": "5d0dcb7db13af73c9901f1cc",
+    "latitude": -3.304136,
+    "longitude": -2.280571,
+    "accelorometerz": -6.7083,
+    "accelorometerx": 66.8359,
+    "IRsensor": 5.1869
+  },
+  {
+    "_id": "5d0dcb7d623fb4566d23703e",
+    "latitude": 22.246102,
+    "longitude": -98.43995,
+    "accelorometerz": -18.3402,
+    "accelorometerx": 24.2195,
+    "IRsensor": 4.9841
+  },
+  {
+    "_id": "5d0dcb7d620aae62d69bc86f",
+    "latitude": 26.60155,
+    "longitude": 154.553479,
+    "accelorometerz": -17.8065,
+    "accelorometerx": 23.3,
+    "IRsensor": 11.9561
+  },
+  {
+    "_id": "5d0dcb7dc2f1ed3c4a820a82",
+    "latitude": -19.596841,
+    "longitude": -91.916853,
+    "accelorometerz": -7.7267,
+    "accelorometerx": 61.2653,
+    "IRsensor": 11.4369
+  },
+  {
+    "_id": "5d0dcb7dd4c7533af61367f8",
+    "latitude": -85.195764,
+    "longitude": -98.729043,
+    "accelorometerz": -19.0745,
+    "accelorometerx": 27.3888,
+    "IRsensor": 5.5995
+  },
+  {
+    "_id": "5d0dcb7d3cc748b7e3194887",
+    "latitude": -24.265112,
+    "longitude": -160.750002,
+    "accelorometerz": -11.2178,
+    "accelorometerx": 21.9797,
+    "IRsensor": 6.5477
+  },
+  {
+    "_id": "5d0dcb7d3bbef93254d3b6cc",
+    "latitude": 18.139864,
+    "longitude": 30.928784,
+    "accelorometerz": -15.3637,
+    "accelorometerx": 54.2388,
+    "IRsensor": 11.897
+  },
+  {
+    "_id": "5d0dcb7d87772738490d9bb4",
+    "latitude": -41.682692,
+    "longitude": -72.842885,
+    "accelorometerz": -7.3832,
+    "accelorometerx": 39.0598,
+    "IRsensor": 8.4806
+  },
+  {
+    "_id": "5d0dcb7dd8689909d278b847",
+    "latitude": 68.522665,
+    "longitude": -92.191754,
+    "accelorometerz": -16.6986,
+    "accelorometerx": 53.8703,
+    "IRsensor": 5.6862
+  },
+  {
+    "_id": "5d0dcb7d18eab537188d6e44",
+    "latitude": 44.476252,
+    "longitude": 170.400372,
+    "accelorometerz": -7.9638,
+    "accelorometerx": 44.9097,
+    "IRsensor": 8.0584
+  },
+  {
+    "_id": "5d0dcb7d659eac0d52b9a0fc",
+    "latitude": -8.418711,
+    "longitude": 79.99176,
+    "accelorometerz": -17.3594,
+    "accelorometerx": 45.1686,
+    "IRsensor": 11.7596
+  },
+  {
+    "_id": "5d0dcb7d6eb2b50508145db9",
+    "latitude": 74.626819,
+    "longitude": 123.733197,
+    "accelorometerz": -9.56,
+    "accelorometerx": 36.3249,
+    "IRsensor": 10.7379
+  },
+  {
+    "_id": "5d0dcb7d8fb2eafffbc34219",
+    "latitude": -52.955467,
+    "longitude": -34.026607,
+    "accelorometerz": -12.099,
+    "accelorometerx": 51.6549,
+    "IRsensor": 9.9814
+  },
+  {
+    "_id": "5d0dcb7d1df3cdba3e592cb3",
+    "latitude": -49.230758,
+    "longitude": -66.835184,
+    "accelorometerz": -10.4946,
+    "accelorometerx": 62.1032,
+    "IRsensor": 5.0353
+  },
+  {
+    "_id": "5d0dcb7dec518f0b0407ae9b",
+    "latitude": 60.218685,
+    "longitude": -178.091579,
+    "accelorometerz": -19.5491,
+    "accelorometerx": 49.5191,
+    "IRsensor": 5.6593
+  },
+  {
+    "_id": "5d0dcb7d78429ddf1218af37",
+    "latitude": 64.990094,
+    "longitude": -155.594878,
+    "accelorometerz": -11.5905,
+    "accelorometerx": 20.5749,
+    "IRsensor": 9.8087
+  },
+  {
+    "_id": "5d0dcb7d3507fac163b2c493",
+    "latitude": 39.84704,
+    "longitude": 63.636673,
+    "accelorometerz": -10.4155,
+    "accelorometerx": 75.8655,
+    "IRsensor": 6.064
+  },
+  {
+    "_id": "5d0dcb7dde5859718705b266",
+    "latitude": -9.7503,
+    "longitude": 149.035214,
+    "accelorometerz": -15.2596,
+    "accelorometerx": 25.4056,
+    "IRsensor": 5.1011
+  },
+  {
+    "_id": "5d0dcb7d6eceab51563f1cb9",
+    "latitude": -72.582107,
+    "longitude": -46.948663,
+    "accelorometerz": -19.3127,
+    "accelorometerx": 58.3076,
+    "IRsensor": 7.4293
+  },
+  {
+    "_id": "5d0dcb7d2e013e15dcb65487",
+    "latitude": -24.493742,
+    "longitude": 159.294818,
+    "accelorometerz": -12.164,
+    "accelorometerx": 37.6166,
+    "IRsensor": 11.1507
+  },
+  {
+    "_id": "5d0dcb7d4faa5ea17b0b7895",
+    "latitude": 41.761024,
+    "longitude": -112.142247,
+    "accelorometerz": -17.0028,
+    "accelorometerx": 34.59,
+    "IRsensor": 11.1774
+  },
+  {
+    "_id": "5d0dcb7dd687137b6643511b",
+    "latitude": 50.355633,
+    "longitude": -145.685623,
+    "accelorometerz": -9.0812,
+    "accelorometerx": 29.3978,
+    "IRsensor": 7.332
+  },
+  {
+    "_id": "5d0dcb7db83b565635170e42",
+    "latitude": 14.981178,
+    "longitude": -160.960804,
+    "accelorometerz": -5.2367,
+    "accelorometerx": 50.858,
+    "IRsensor": 7.3145
+  },
+  {
+    "_id": "5d0dcb7d1c09a251a2b2ad52",
+    "latitude": 5.572859,
+    "longitude": 48.928537,
+    "accelorometerz": -8.7127,
+    "accelorometerx": 54.1022,
+    "IRsensor": 4.5424
+  },
+  {
+    "_id": "5d0dcb7de8c8437b626db6d6",
+    "latitude": 27.276036,
+    "longitude": 7.249618,
+    "accelorometerz": -12.1708,
+    "accelorometerx": 62.8848,
+    "IRsensor": 5.1905
+  },
+  {
+    "_id": "5d0dcb7d7de4af7db323adee",
+    "latitude": 45.68688,
+    "longitude": 122.633302,
+    "accelorometerz": -17.7734,
+    "accelorometerx": 40.1198,
+    "IRsensor": 4.9458
+  },
+  {
+    "_id": "5d0dcb7d7775da77c9c59da1",
+    "latitude": -80.202663,
+    "longitude": 42.532044,
+    "accelorometerz": -12.7451,
+    "accelorometerx": 46.5567,
+    "IRsensor": 3.4436
+  },
+  {
+    "_id": "5d0dcb7d33f1eaeef0584315",
+    "latitude": 45.240199,
+    "longitude": -130.774117,
+    "accelorometerz": -14.8623,
+    "accelorometerx": 45.1391,
+    "IRsensor": 11.6931
+  },
+  {
+    "_id": "5d0dcb7df0c9ad710e3ba0c0",
+    "latitude": 14.788073,
+    "longitude": 19.744864,
+    "accelorometerz": -17.0244,
+    "accelorometerx": 40.1997,
+    "IRsensor": 5.017
+  },
+  {
+    "_id": "5d0dcb7ded05af213d904385",
+    "latitude": -62.637129,
+    "longitude": 23.989036,
+    "accelorometerz": -17.2305,
+    "accelorometerx": 61.6268,
+    "IRsensor": 7.9488
+  },
+  {
+    "_id": "5d0dcb7dacfc348d547ae1cc",
+    "latitude": 76.597226,
+    "longitude": -34.242954,
+    "accelorometerz": -5.8034,
+    "accelorometerx": 29.4899,
+    "IRsensor": 5.3572
+  },
+  {
+    "_id": "5d0dcb7d3f1f9aecdc98edab",
+    "latitude": -84.899975,
+    "longitude": -135.788511,
+    "accelorometerz": -10.0608,
+    "accelorometerx": 24.9177,
+    "IRsensor": 5.4385
+  },
+  {
+    "_id": "5d0dcb7d517d5cdbd7317168",
+    "latitude": -79.020964,
+    "longitude": 82.75102,
+    "accelorometerz": -5.0252,
+    "accelorometerx": 64.4505,
+    "IRsensor": 9.3987
+  },
+  {
+    "_id": "5d0dcb7d06caa18f4c3c21d1",
+    "latitude": 1.52188,
+    "longitude": 24.420092,
+    "accelorometerz": -7.8937,
+    "accelorometerx": 62.626,
+    "IRsensor": 3.7064
+  },
+  {
+    "_id": "5d0dcb7d9ceabdbb818b227d",
+    "latitude": -70.302432,
+    "longitude": 176.854919,
+    "accelorometerz": -10.8433,
+    "accelorometerx": 21.9999,
+    "IRsensor": 10.0006
+  },
+  {
+    "_id": "5d0dcb7d1812cb9efa1e726b",
+    "latitude": -65.488012,
+    "longitude": 149.371229,
+    "accelorometerz": -16.1994,
+    "accelorometerx": 46.4919,
+    "IRsensor": 9.023
+  },
+  {
+    "_id": "5d0dcb7d0e5f910164d5d85b",
+    "latitude": -28.972318,
+    "longitude": 134.860002,
+    "accelorometerz": -10.6149,
+    "accelorometerx": 76.8762,
+    "IRsensor": 7.8674
+  },
+  {
+    "_id": "5d0dcb7da674342c780a901b",
+    "latitude": -40.99734,
+    "longitude": -142.548737,
+    "accelorometerz": -14.9582,
+    "accelorometerx": 76.4685,
+    "IRsensor": 9.3999
+  },
+  {
+    "_id": "5d0dcb7dabfed53b9a3c2796",
+    "latitude": 67.278138,
+    "longitude": 128.182614,
+    "accelorometerz": -12.9468,
+    "accelorometerx": 34.2502,
+    "IRsensor": 3.7533
+  },
+  {
+    "_id": "5d0dcb7d38ab6f8ac9cf4a19",
+    "latitude": -5.737616,
+    "longitude": -125.285891,
+    "accelorometerz": -13.4456,
+    "accelorometerx": 78.4082,
+    "IRsensor": 9.0472
+  },
+  {
+    "_id": "5d0dcb7d3f138e1234d461ae",
+    "latitude": -85.16984,
+    "longitude": 173.975775,
+    "accelorometerz": -17.7829,
+    "accelorometerx": 37.5816,
+    "IRsensor": 7.6932
+  },
+  {
+    "_id": "5d0dcb7daff025726976e82f",
+    "latitude": -89.909832,
+    "longitude": -158.888323,
+    "accelorometerz": -7.5804,
+    "accelorometerx": 55.7178,
+    "IRsensor": 7.0018
+  },
+  {
+    "_id": "5d0dcb7d93ef61f2fe25cfe6",
+    "latitude": 77.972935,
+    "longitude": -11.891572,
+    "accelorometerz": -10.0439,
+    "accelorometerx": 28.3248,
+    "IRsensor": 10.5951
+  },
+  {
+    "_id": "5d0dcb7d556a938ec845cf7b",
+    "latitude": 36.051859,
+    "longitude": -107.789662,
+    "accelorometerz": -5.2525,
+    "accelorometerx": 73.0929,
+    "IRsensor": 7.3816
+  },
+  {
+    "_id": "5d0dcb7d883fe56dc6adf732",
+    "latitude": -86.878399,
+    "longitude": 157.929479,
+    "accelorometerz": -7.3423,
+    "accelorometerx": 40.7527,
+    "IRsensor": 8.6317
+  },
+  {
+    "_id": "5d0dcb7d6f95a7c98fc9ab17",
+    "latitude": -67.807757,
+    "longitude": -179.985274,
+    "accelorometerz": -15.2565,
+    "accelorometerx": 50.0507,
+    "IRsensor": 9.263
+  },
+  {
+    "_id": "5d0dcb7d487e67c39efb0544",
+    "latitude": -66.427954,
+    "longitude": 73.632684,
+    "accelorometerz": -10.7913,
+    "accelorometerx": 64.4417,
+    "IRsensor": 7.0984
+  },
+  {
+    "_id": "5d0dcb7dbfe3ced25425267a",
+    "latitude": 57.656907,
+    "longitude": 131.210127,
+    "accelorometerz": -6.3067,
+    "accelorometerx": 55.9546,
+    "IRsensor": 6.7855
+  },
+  {
+    "_id": "5d0dcb7d3af0c2eaf77ea329",
+    "latitude": -44.689363,
+    "longitude": 156.864332,
+    "accelorometerz": -5.9256,
+    "accelorometerx": 28.2963,
+    "IRsensor": 5.9412
+  },
+  {
+    "_id": "5d0dcb7d2bf5556a68c8f8d4",
+    "latitude": 15.601503,
+    "longitude": 164.385474,
+    "accelorometerz": -10.7924,
+    "accelorometerx": 65.3244,
+    "IRsensor": 9.5175
+  },
+  {
+    "_id": "5d0dcb7d79ef17a0ba96d532",
+    "latitude": 31.981882,
+    "longitude": -149.534638,
+    "accelorometerz": -8.7367,
+    "accelorometerx": 34.0326,
+    "IRsensor": 9.2957
+  },
+  {
+    "_id": "5d0dcb7d6385dee8960e2dc8",
+    "latitude": -25.342144,
+    "longitude": -77.029302,
+    "accelorometerz": -8.3808,
+    "accelorometerx": 66.8653,
+    "IRsensor": 3.3678
+  },
+  {
+    "_id": "5d0dcb7d9a9ce192ec0ce4ab",
+    "latitude": -5.094484,
+    "longitude": 80.243636,
+    "accelorometerz": -14.7239,
+    "accelorometerx": 70.1545,
+    "IRsensor": 5.0485
+  },
+  {
+    "_id": "5d0dcb7d8e3de5715d195189",
+    "latitude": -80.983738,
+    "longitude": -174.99803,
+    "accelorometerz": -11.507,
+    "accelorometerx": 75.5423,
+    "IRsensor": 8.3013
+  },
+  {
+    "_id": "5d0dcb7dccc9810476d4e7ca",
+    "latitude": -79.884061,
+    "longitude": 166.136394,
+    "accelorometerz": -6.6019,
+    "accelorometerx": 41.789,
+    "IRsensor": 7.0477
+  },
+  {
+    "_id": "5d0dcb7d7444e504ec4eae17",
+    "latitude": -14.729325,
+    "longitude": -2.814567,
+    "accelorometerz": -14.8102,
+    "accelorometerx": 35.4727,
+    "IRsensor": 11.2254
+  },
+  {
+    "_id": "5d0dcb7de8005f0e780e2b8c",
+    "latitude": 26.915489,
+    "longitude": -164.961007,
+    "accelorometerz": -8.1359,
+    "accelorometerx": 63.682,
+    "IRsensor": 4.8
+  },
+  {
+    "_id": "5d0dcb7d3c24a2929b902cb4",
+    "latitude": 65.60738,
+    "longitude": 177.446676,
+    "accelorometerz": -10.5219,
+    "accelorometerx": 73.9755,
+    "IRsensor": 5.1221
+  },
+  {
+    "_id": "5d0dcb7da875d7c53256c37a",
+    "latitude": -36.564425,
+    "longitude": -118.683824,
+    "accelorometerz": -17.5872,
+    "accelorometerx": 47.7335,
+    "IRsensor": 3.1069
+  },
+  {
+    "_id": "5d0dcb7dde31fbe6eb2e6e9b",
+    "latitude": 9.454502,
+    "longitude": -64.995763,
+    "accelorometerz": -12.0583,
+    "accelorometerx": 31.4947,
+    "IRsensor": 5.6802
+  },
+  {
+    "_id": "5d0dcb7d442c426d722bff75",
+    "latitude": 73.57984,
+    "longitude": -178.691687,
+    "accelorometerz": -17.3613,
+    "accelorometerx": 64.9901,
+    "IRsensor": 4.6142
+  },
+  {
+    "_id": "5d0dcb7db63fd6e62e41d765",
+    "latitude": 5.036137,
+    "longitude": 115.386575,
+    "accelorometerz": -15.8709,
+    "accelorometerx": 44.5299,
+    "IRsensor": 5.7555
+  },
+  {
+    "_id": "5d0dcb7d447cce027eec0772",
+    "latitude": 77.87819,
+    "longitude": 50.122392,
+    "accelorometerz": -19.9331,
+    "accelorometerx": 79.0434,
+    "IRsensor": 8.5554
+  },
+  {
+    "_id": "5d0dcb7d11774df3f2fcaeea",
+    "latitude": 15.344758,
+    "longitude": -168.425826,
+    "accelorometerz": -19.9366,
+    "accelorometerx": 28.5026,
+    "IRsensor": 7.7876
+  },
+  {
+    "_id": "5d0dcb7d553f922c83551770",
+    "latitude": 38.302651,
+    "longitude": -163.360355,
+    "accelorometerz": -16.1438,
+    "accelorometerx": 71.8276,
+    "IRsensor": 4.6198
+  },
+  {
+    "_id": "5d0dcb7dffe0110ab43827cc",
+    "latitude": -30.908996,
+    "longitude": 145.802089,
+    "accelorometerz": -16.6276,
+    "accelorometerx": 77.6934,
+    "IRsensor": 7.0759
+  },
+  {
+    "_id": "5d0dcb7df7c024284d624715",
+    "latitude": -42.447036,
+    "longitude": -35.75134,
+    "accelorometerz": -17.477,
+    "accelorometerx": 31.4548,
+    "IRsensor": 3.0624
+  },
+  {
+    "_id": "5d0dcb7df8ec194f00a4907c",
+    "latitude": -39.145868,
+    "longitude": -69.871975,
+    "accelorometerz": -15.2958,
+    "accelorometerx": 21.1323,
+    "IRsensor": 9.005
+  },
+  {
+    "_id": "5d0dcb7d685239fbbe419744",
+    "latitude": 5.080923,
+    "longitude": 52.854755,
+    "accelorometerz": -17.3602,
+    "accelorometerx": 45.5188,
+    "IRsensor": 5.4495
+  },
+  {
+    "_id": "5d0dcb7d8e13481e75530b82",
+    "latitude": -50.912564,
+    "longitude": -34.843636,
+    "accelorometerz": -10.6154,
+    "accelorometerx": 65.1586,
+    "IRsensor": 6.0982
+  },
+  {
+    "_id": "5d0dcb7d4c29ba529b25cf02",
+    "latitude": -47.11807,
+    "longitude": 89.614502,
+    "accelorometerz": -9.9448,
+    "accelorometerx": 31.3746,
+    "IRsensor": 11.3881
+  },
+  {
+    "_id": "5d0dcb7db8ce0bc5edfe8e02",
+    "latitude": -39.877279,
+    "longitude": 122.930326,
+    "accelorometerz": -5.3651,
+    "accelorometerx": 38.5684,
+    "IRsensor": 11.6063
+  },
+  {
+    "_id": "5d0dcb7d74014819d51a34f3",
+    "latitude": -68.424991,
+    "longitude": -78.920911,
+    "accelorometerz": -15.8205,
+    "accelorometerx": 49.1111,
+    "IRsensor": 7.9071
+  },
+  {
+    "_id": "5d0dcb7dd2edc0ed3236f4a9",
+    "latitude": -7.695352,
+    "longitude": 170.013338,
+    "accelorometerz": -6.4191,
+    "accelorometerx": 69.4393,
+    "IRsensor": 3.6489
+  },
+  {
+    "_id": "5d0dcb7d8690b5f25d085226",
+    "latitude": 51.677297,
+    "longitude": -118.953866,
+    "accelorometerz": -17.5613,
+    "accelorometerx": 37.559,
+    "IRsensor": 11.2644
+  },
+  {
+    "_id": "5d0dcb7dd728873ba216ef5d",
+    "latitude": 21.612859,
+    "longitude": 165.42633,
+    "accelorometerz": -18.7396,
+    "accelorometerx": 79.7685,
+    "IRsensor": 8.1766
+  },
+  {
+    "_id": "5d0dcb7d25571a32a1135e7c",
+    "latitude": 26.644227,
+    "longitude": 27.71419,
+    "accelorometerz": -6.1679,
+    "accelorometerx": 66.9594,
+    "IRsensor": 8.3314
+  },
+  {
+    "_id": "5d0dcb7dbab25e8812c85a4e",
+    "latitude": 72.5544,
+    "longitude": -104.753132,
+    "accelorometerz": -13.9468,
+    "accelorometerx": 39.2124,
+    "IRsensor": 7.4467
+  },
+  {
+    "_id": "5d0dcb7d85735a42bbf7208c",
+    "latitude": 16.259715,
+    "longitude": -106.379382,
+    "accelorometerz": -13.0531,
+    "accelorometerx": 51.5171,
+    "IRsensor": 11.4316
+  },
+  {
+    "_id": "5d0dcb7dc8c4c3dacb36893c",
+    "latitude": 16.009281,
+    "longitude": 153.027896,
+    "accelorometerz": -6.3183,
+    "accelorometerx": 34.627,
+    "IRsensor": 10.2546
+  },
+  {
+    "_id": "5d0dcb7d196621c5b3ece5dc",
+    "latitude": -22.84126,
+    "longitude": 22.665602,
+    "accelorometerz": -6.2711,
+    "accelorometerx": 37.3722,
+    "IRsensor": 4.038
+  },
+  {
+    "_id": "5d0dcb7daaab60b70e6e348f",
+    "latitude": -45.23177,
+    "longitude": 124.035415,
+    "accelorometerz": -15.1078,
+    "accelorometerx": 27.0039,
+    "IRsensor": 9.8315
+  },
+  {
+    "_id": "5d0dcb7d3bf52a20c7ae0e48",
+    "latitude": 47.824092,
+    "longitude": 39.171937,
+    "accelorometerz": -11.3742,
+    "accelorometerx": 49.9224,
+    "IRsensor": 11.0613
+  },
+  {
+    "_id": "5d0dcb7ddd767867131630b1",
+    "latitude": 38.970873,
+    "longitude": 154.131839,
+    "accelorometerz": -11.6862,
+    "accelorometerx": 50.9905,
+    "IRsensor": 11.425
+  },
+  {
+    "_id": "5d0dcb7d35b47b6d28e5b704",
+    "latitude": -66.608906,
+    "longitude": -68.702677,
+    "accelorometerz": -17.9923,
+    "accelorometerx": 47.0393,
+    "IRsensor": 10.103
+  },
+  {
+    "_id": "5d0dcb7dd1edf2c6cedcebd4",
+    "latitude": 84.345067,
+    "longitude": -174.48073,
+    "accelorometerz": -19.1892,
+    "accelorometerx": 57.9649,
+    "IRsensor": 9.587
+  },
+  {
+    "_id": "5d0dcb7d29e9af3bafb66324",
+    "latitude": 43.415572,
+    "longitude": -155.226043,
+    "accelorometerz": -6.5457,
+    "accelorometerx": 77.7178,
+    "IRsensor": 7.678
+  },
+  {
+    "_id": "5d0dcb7d5fc3861887b0d076",
+    "latitude": 38.780912,
+    "longitude": 15.277546,
+    "accelorometerz": -15.2958,
+    "accelorometerx": 74.4034,
+    "IRsensor": 3.0472
+  },
+  {
+    "_id": "5d0dcb7dc25af9e4672ebb2f",
+    "latitude": -24.374484,
+    "longitude": 104.084017,
+    "accelorometerz": -16.7801,
+    "accelorometerx": 23.3555,
+    "IRsensor": 4.0627
+  },
+  {
+    "_id": "5d0dcb7d61e16ac1286e5648",
+    "latitude": -57.268816,
+    "longitude": -91.235127,
+    "accelorometerz": -7.109,
+    "accelorometerx": 70.6421,
+    "IRsensor": 6.3535
+  },
+  {
+    "_id": "5d0dcb7d4334815d9af62df3",
+    "latitude": 53.990123,
+    "longitude": 149.60038,
+    "accelorometerz": -5.2814,
+    "accelorometerx": 50.8516,
+    "IRsensor": 11.087
+  },
+  {
+    "_id": "5d0dcb7df40bd994179b061c",
+    "latitude": 22.381753,
+    "longitude": -49.481288,
+    "accelorometerz": -12.8151,
+    "accelorometerx": 59.5259,
+    "IRsensor": 7.1675
+  },
+  {
+    "_id": "5d0dcb7dec5500d804e7bc4e",
+    "latitude": 46.133769,
+    "longitude": -175.865991,
+    "accelorometerz": -8.3143,
+    "accelorometerx": 69.6696,
+    "IRsensor": 5.6828
+  },
+  {
+    "_id": "5d0dcb7d9dcc569a9810f5bc",
+    "latitude": -71.49538,
+    "longitude": 2.765668,
+    "accelorometerz": -11.2755,
+    "accelorometerx": 39.6996,
+    "IRsensor": 9.8127
+  },
+  {
+    "_id": "5d0dcb7d9719786ddcae69e5",
+    "latitude": 8.878618,
+    "longitude": 24.976672,
+    "accelorometerz": -13.2204,
+    "accelorometerx": 51.5386,
+    "IRsensor": 3.2779
+  },
+  {
+    "_id": "5d0dcb7d8fae68bb1bd6a90e",
+    "latitude": 85.62098,
+    "longitude": 33.28687,
+    "accelorometerz": -12.9841,
+    "accelorometerx": 46.0342,
+    "IRsensor": 4.6015
+  },
+  {
+    "_id": "5d0dcb7dbdfaad1c5f802944",
+    "latitude": 37.051535,
+    "longitude": 160.177192,
+    "accelorometerz": -12.5302,
+    "accelorometerx": 46.9666,
+    "IRsensor": 7.6773
+  },
+  {
+    "_id": "5d0dcb7d0a047051b4f228b4",
+    "latitude": 60.333997,
+    "longitude": -111.538138,
+    "accelorometerz": -13.7677,
+    "accelorometerx": 27.6944,
+    "IRsensor": 5.9434
+  },
+  {
+    "_id": "5d0dcb7db58485b598d748f5",
+    "latitude": -23.423889,
+    "longitude": 87.658464,
+    "accelorometerz": -17.0291,
+    "accelorometerx": 59.4913,
+    "IRsensor": 7.8521
+  },
+  {
+    "_id": "5d0dcb7de1d87ec904ca4b90",
+    "latitude": -20.487328,
+    "longitude": 114.583197,
+    "accelorometerz": -9.4173,
+    "accelorometerx": 70.4133,
+    "IRsensor": 11.6324
+  },
+  {
+    "_id": "5d0dcb7d71274d6530460d41",
+    "latitude": -44.954913,
+    "longitude": -145.137464,
+    "accelorometerz": -18.157,
+    "accelorometerx": 20.9091,
+    "IRsensor": 9.8602
+  },
+  {
+    "_id": "5d0dcb7da882e77aa0573da1",
+    "latitude": -13.124845,
+    "longitude": 60.970125,
+    "accelorometerz": -17.0699,
+    "accelorometerx": 58.6648,
+    "IRsensor": 6.4466
+  },
+  {
+    "_id": "5d0dcb7d14e6fe84d1e59484",
+    "latitude": -62.479518,
+    "longitude": 85.521295,
+    "accelorometerz": -18.9558,
+    "accelorometerx": 48.0951,
+    "IRsensor": 8.2723
+  },
+  {
+    "_id": "5d0dcb7d135cb732cdea4722",
+    "latitude": 28.209301,
+    "longitude": -35.60234,
+    "accelorometerz": -7.2297,
+    "accelorometerx": 69.1185,
+    "IRsensor": 11.2182
+  },
+  {
+    "_id": "5d0dcb7d0d36dbcf1c48e594",
+    "latitude": 64.023248,
+    "longitude": -57.06789,
+    "accelorometerz": -18.9537,
+    "accelorometerx": 74.2396,
+    "IRsensor": 10.616
+  },
+  {
+    "_id": "5d0dcb7d75649eac85ddd8ce",
+    "latitude": 21.151492,
+    "longitude": 133.698624,
+    "accelorometerz": -16.2899,
+    "accelorometerx": 28.2373,
+    "IRsensor": 8.1509
+  },
+  {
+    "_id": "5d0dcb7dcdc01dae2e1ffe69",
+    "latitude": -61.293523,
+    "longitude": -160.50286,
+    "accelorometerz": -9.2364,
+    "accelorometerx": 32.9675,
+    "IRsensor": 8.9015
+  },
+  {
+    "_id": "5d0dcb7d2b624720831929c6",
+    "latitude": -43.64235,
+    "longitude": -46.72942,
+    "accelorometerz": -16.3739,
+    "accelorometerx": 63.8704,
+    "IRsensor": 7.1949
+  }
+]
