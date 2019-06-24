@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>PotholeDetection</title>
+	<link rel="stylesheet" type="text/css" href="styles/sty.css">
+	<script
+  src="https://code.jquery.com/jquery-3.4.1.js"
+  integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+  crossorigin="anonymous"></script>
+  <script>
+  $(document).ready(function(){
+    $("#submitBtn").click(function(){
+      $("#myForm").submit(function);
+         alert("Submitted");
+});
+});
+</script>
+</head>
+<body>
+	<div id="header">
+   	<div class="logo"><pre><a href="#">                             Transport<span> Ministry</span></a></pre></div>
+   </div>
+   <a class="mobile" href="#"><b>MENU</b></a>
+  
+   <div id="container">
+   	 <div class="sidebar">
+   	 	<ul id="nav"><b>
+   	 		<li><a href="project.html">Home</a></li>
+   	 		<li><a class= "selected" href="t1.html">Pothole Detection</a></li>
+	 		<li><a href="t2.html">Graphs and Charts</a></li>	
+   	 		<li><a href="t3.html">Map</a></li>	  	 		
+   	 	</b></ul>
+   	 
+   	 </div>
+	<center> 
+		Welcome to the Pothole Detection page!!
+		<br>
+		<p>Enter the locality:</p>
+		<p><form action="welcome.php" method="post" id="myForm">
+			<label>Locality:</label><input type="text" name="full-name"><br>
+			<button type="submit" id="submitBtn">Submit Form</button>
+		</form>
+
+	 </center>
+</body>
+</html>
